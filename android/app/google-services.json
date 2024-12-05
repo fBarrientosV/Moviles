@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "16705852476",
+    "project_id": "limpieza-exprezzz",
+    "storage_bucket": "limpieza-exprezzz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16705852476:android:861d6b741bcdc6410d9f39",
+        "android_client_info": {
+          "package_name": "com.examp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOY0qGJnocrKVR7LDtixYCvQQJcolbm0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16705852476:android:f9bf8a1b7ed075460d9f39",
+        "android_client_info": {
+          "package_name": "com.example.flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOY0qGJnocrKVR7LDtixYCvQQJcolbm0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16705852476:android:a5a50ceb328247a30d9f39",
+        "android_client_info": {
+          "package_name": "com.example.flutter_appl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOY0qGJnocrKVR7LDtixYCvQQJcolbm0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
